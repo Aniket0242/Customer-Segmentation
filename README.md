@@ -1,2 +1,2 @@
 # Customer-Segmentation
-This repository is about customer profiling by clustering.
+In this project, I will conduct unsupervised clustering on customer records from a grocery firm's database. Customer segmentation involves grouping customers based on shared characteristics within each cluster. My goal is to segment customers to enhance their value to the business, tailor products to their specific needs and behaviors, and address the varying concerns of different customer types.
